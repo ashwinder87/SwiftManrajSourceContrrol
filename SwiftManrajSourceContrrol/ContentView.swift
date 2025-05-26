@@ -7,6 +7,30 @@
 
 import SwiftUI
 
+
+/*
+ Commit Messages
+ 
+ New Feature
+ [Feature] Description of the feature
+ 
+ BUG in production:
+ [Patch] Description of patch
+ 
+ 
+ BUG not in production
+ 
+ [BUG] Fix this Bug / Description of Bug
+ 
+ Mundane Tasks:
+ [Clean] : Description of changes
+ 
+ RELEASE :
+ [Release] Description of release
+ 
+ 
+ 
+ */
 struct ContentView: View {
     var body: some View {
         VStack {
