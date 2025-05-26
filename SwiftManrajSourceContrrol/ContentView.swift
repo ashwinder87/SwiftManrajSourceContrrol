@@ -39,7 +39,10 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Manraj Thinking!")
             
-            Button("Click Me") {
+            Button("Subscribe") {
+                
+            }
+            Button("Click me") {
                 
             }
             .background(Color.red)
