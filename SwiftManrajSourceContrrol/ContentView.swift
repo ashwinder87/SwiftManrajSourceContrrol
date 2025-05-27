@@ -44,7 +44,7 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Manraj Thinking!")
+            Text("Manraj Thinking Best !")
             
             Button("Subscribe") {
                 
