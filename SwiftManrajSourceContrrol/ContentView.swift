@@ -11,6 +11,13 @@ import SwiftUI
 /*
  Commit Messages
  
+ Clone = copying the repo locally
+ commit = save a checkpoint on our current branch
+ staging =  prepare changes for a commit
+ stash =  save changes for later
+ Push =  send local commits to remote repo
+ Pull =  fetch remote to local repo
+ 
  New Feature
  [Feature] Description of the feature
  
