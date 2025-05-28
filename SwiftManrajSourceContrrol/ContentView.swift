@@ -47,7 +47,7 @@ struct ContentView: View {
                     .foregroundStyle(.tint)
                 Text("SwiftFul Thinking")
                 
-                Button("Click now") {
+                Button("SubsCribe now") {
                     
                 }
             }
