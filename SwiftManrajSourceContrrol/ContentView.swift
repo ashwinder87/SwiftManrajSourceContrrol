@@ -44,8 +44,11 @@ struct ContentView: View {
             Image(systemName: "house.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Manraj Thinking Best!")
+            Text("MSome new title!")
             
+            Button("Click now") {
+                
+            }
            
            Rectangle()
         }
