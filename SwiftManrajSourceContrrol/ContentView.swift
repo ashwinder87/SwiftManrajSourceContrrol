@@ -41,16 +41,19 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "house.fill")
-                .font(.largeTitle)
-                .foregroundStyle(.tint)
-            Text("MSome new title!")
-            
-            Button("Click now") {
+            ForEach(0..<5) { _ in
+                Image(systemName: "magnifyingglass")
+                    .font(.largeTitle)
+                    .foregroundStyle(.tint)
+                Text("SwiftFul Thinking!")
                 
+                Button("Click now") {
+                    
+                }
             }
+          
            
-           Rectangle()
+          
         }
         .padding()
     }
