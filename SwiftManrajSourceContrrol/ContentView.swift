@@ -42,12 +42,12 @@ struct ContentView: View {
     var body: some View {
         VStack {
             ForEach(0..<5) { _ in
-                Image(systemName: "magnifyingglass")
+                Image(systemName: "globe")
                     .font(.largeTitle)
                     .foregroundStyle(.tint)
-                Text("SwiftFul Thinking!")
+                Text("SwiftFul Thinking")
                 
-                Button("Click now") {
+                Button("SubsCribe now") {
                     
                 }
             }
