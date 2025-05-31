@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B41B56462DEADCC500CE5A48 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41B56452DEADCC500CE5A48 /* SettingsView.swift */; };
 		B4F69D512DE488DD00DF9E63 /* SwiftManrajSourceContrrolApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F69D502DE488DD00DF9E63 /* SwiftManrajSourceContrrolApp.swift */; };
 		B4F69D532DE488DD00DF9E63 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F69D522DE488DD00DF9E63 /* ContentView.swift */; };
 		B4F69D552DE488E000DF9E63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4F69D542DE488E000DF9E63 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B41B56452DEADCC500CE5A48 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		B4F69D4D2DE488DD00DF9E63 /* SwiftManrajSourceContrrol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftManrajSourceContrrol.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F69D502DE488DD00DF9E63 /* SwiftManrajSourceContrrolApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftManrajSourceContrrolApp.swift; sourceTree = "<group>"; };
 		B4F69D522DE488DD00DF9E63 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				B4F69D502DE488DD00DF9E63 /* SwiftManrajSourceContrrolApp.swift */,
 				B4F69D522DE488DD00DF9E63 /* ContentView.swift */,
 				B4F69D5E2DE48D8600DF9E63 /* HomeView.swift */,
+				B41B56452DEADCC500CE5A48 /* SettingsView.swift */,
 				B4F69D542DE488E000DF9E63 /* Assets.xcassets */,
 				B4F69D562DE488E000DF9E63 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4F69D5F2DE48D8600DF9E63 /* HomeView.swift in Sources */,
+				B41B56462DEADCC500CE5A48 /* SettingsView.swift in Sources */,
 				B4F69D532DE488DD00DF9E63 /* ContentView.swift in Sources */,
 				B4F69D512DE488DD00DF9E63 /* SwiftManrajSourceContrrolApp.swift in Sources */,
 			);
