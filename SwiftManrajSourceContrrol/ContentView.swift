@@ -21,6 +21,8 @@ import SwiftUI
  Rebase =  Moving one branch on top of another branch
  Cherry Picking =  Duplicating/ copying one commit from one branch to another
  
+ Pull Request(PR) = Request to merge branch
+ 
  New Feature
  [Feature] Description of the feature
  
